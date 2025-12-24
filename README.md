@@ -54,7 +54,7 @@ It exposes RESTful APIs to perform full CRUD operations and demonstrates the use
 - **OneToMany:** Vehicle → MaintenanceRecord  
 - **ManyToOne:** Trip → Vehicle  
 - **ManyToOne:** Trip → Driver  
-- **ManyToMany:** Trip ↔ Route (optional)
+
 
 ---
 
